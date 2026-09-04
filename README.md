@@ -83,5 +83,39 @@ Often called "reverse brain drain," this happens when **highly educated citizens
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Rags-To-Riches-Secrets&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Rags-To-Riches-Secrets&type=date&legend=top-left)
 
+---
+
+## 📚 Data Sources & References
+
+The comparative statistics and GDP percentage benchmarks are synthesized from official international economic databases and institutional reports:
+
+* **✈️ 1. Tourism Data & Balances:**
+  * [UN Tourism (UNWTO) - World Tourism Barometer](https://www.unwto.org/unwto-world-tourism-barometer-data)
+  * [World Travel & Tourism Council (WTTC) Economic Impact Research](https://wttc.org/research/economic-impact)
+  * [U.S. National Travel and Tourism Office (NTTO) - Travel Trade Balance](https://www.trade.gov/travel-and-tourism-research)
+  * [Ministry of Tourism, Government of India - India Tourism Statistics](https://tourism.gov.in/)
+
+* **🚢 2. Trade Balances (Goods & Services):**
+  * [World Trade Organization (WTO) - Global Trade Data Portal](https://stats.wto.org/)
+  * [U.S. Bureau of Economic Analysis (BEA) - U.S. International Trade in Goods and Services](https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services)
+  * [General Administration of Customs of the People's Republic of China (GACC)](http://english.customs.gov.cn/)
+  * [Ministry of Commerce and Industry, Government of India - Foreign Trade Performance](https://commerce.gov.in/)
+
+* **🏭 3. Foreign Direct Investment (FDI):**
+  * [UNCTAD - World Investment Report & FDI Statistics](https://unctad.org/topic/investment/world-investment-report)
+  * [OECD Foreign Direct Investment Statistics](https://www.oecd.org/investment/statistics.htm)
+  * [Reserve Bank of India (RBI) - Inward & Outward FDI Data](https://www.rbi.org.in/)
+
+* **💸 4. Remittance Flows:**
+  * [World Bank - Migration and Remittances Data](https://www.worldbank.org/en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data)
+  * [KNOMAD (Global Knowledge Partnership on Migration and Development) - Migration & Development Briefs](https://www.knomad.org/publication/migration-and-development-brief-40)
+
+* **🧠 5. Reverse Brain Drain & Talent Circulation:**
+  * [Center for Strategic and International Studies (CSIS) - Global STEM Talent & Workforce Reports](https://www.csis.org/analysis/preserving-stem-talent-advantage)
+  * [National Science Foundation (NSF) - Science & Engineering Indicators](https://ncses.nsf.gov/indicators)
+  * [Ministry of Education of the People's Republic of China - Statistics on Returned Students (Haigui)](http://en.moe.gov.cn/)
+  * [NASSCOM - India GCC Landscape & Talent Repatriation Trends](https://nasscom.in/)
+
+
 
 
