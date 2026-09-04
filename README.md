@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Rags-To-Riches-Secrets Banner" width="100%" />
+</p>
+
 # Rags-To-Riches-Secrets
 
 A country builds substantial wealth by ensuring more money flows **into its economy than out of it**. 
